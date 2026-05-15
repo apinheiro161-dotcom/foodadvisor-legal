@@ -1,2 +1,2 @@
-# foodadvisor-legal
+# TasteHome-legal
 Legal pages for FoodAdvisor
